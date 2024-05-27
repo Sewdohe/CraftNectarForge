@@ -3625,8 +3625,23 @@ hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d02bc31ff9b7c11b645162ca5af171b3844eb76f76522ce9986884019070f510"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "c0f6e9bb99d9ce0677ae654a91624ee24e4646b208c092eba24ab8ba8de4d762"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "17fa512b7471a786f22400ced605f5985420762326c1e7dd59ef1fe022e10dca"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "754f679e6c8fb693d86fd2b634619e53a422416cbd67cd2248438e797f2c5c22"
 metafile = true
 
 [[files]]
