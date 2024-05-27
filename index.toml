@@ -1,0 +1,243 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "09eee1f5405110edb02064e2163b32b0ecff39756f8e1fb88dc37a08e452d574"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "5b18c424394af27695972570f496e1c3eb453bceefdb4079cc979d2560781773"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "6bdffc741647463db2865247814706c6aed9dd2c83ff0c79486b1572f926e67e"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "42cc4519583d38b32acc90706603ed7c3f24e7c7b3fb82a63a5c3946f12c24a5"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "f19906e5d155709cd2cbb4ebbc2edf72536ef946f550f9cbeac321bcb772d189"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "0a70d58a4a562c2aa2945a3883d35fa3a8e90d80eab9d6b2db3be6103f71b9b2"
+
+[[files]]
+file = "config/fml.toml"
+hash = "68da6d933274ba4736201cc7e7e63d2ac4c0549877c3a9c7be96c6312d28f14d"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "5db4cf560d827f6a88d0f51ef13896cd33db9718215b079df9129e41ba8f4db0"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "8a4a66052998138456f09c8871cbd4c29c864932415262ed5ee837e743597a7e"
+
+[[files]]
+file = "config/forge-resource-caching.toml"
+hash = "ed2512a6396ea7446a5e4bb7d26b18021c1ae356f3cb13caba4043ad77a31e9d"
+
+[[files]]
+file = "config/jade/hide-blocks-1902.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities-1902.json"
+hash = "82a022760c1ca91894bc3b1184664cf65e16ba39dc17a4aa2fc482c4fe4df581"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5213f75b2f3e278cc39c2bd5223b9618b9082ce598bd5a339d6d7110da2097a6"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "13d53616a9fde0958b988960c2222c7ceca6e67c421c80c9d9d35487de23e10b"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "98d4c18824f1d7283ee67c1fb40d6d92ffea883d2d66bf61315bc1552df7da73"
+
+[[files]]
+file = "config/nbt_ac.txt"
+hash = "cab145587aae765711af33a8d6f8315f8c0dd6723273e4abc66b08c9f157087f"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "31132560de0dce91e5c4768a20cbfb0186203ec8daf227769e2d3a5e30ce4eb5"
+
+[[files]]
+file = "config/pmmo-client.toml"
+hash = "3332f1acb6cc1294bb701d3fb9b00a798abd2cb7ade267e96ae2e0367313f6b7"
+
+[[files]]
+file = "config/pmmo-common.toml"
+hash = "f2172065180d72d557813e66222b7f34e64cb16b94c63188fc3f0d5f23d15afc"
+
+[[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "c9eb09b031f0603e3c794ac4f443733e07a799795458519996d1a6e1f5b5f2e1"
+
+[[files]]
+file = "config/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "554579a390b724016ecc576deec6765b5dde498a3de885366c934d89c0ca700b"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "5b35e464479301e892358f8c800dd7b4cfd267c177442fd466808471972fcfed"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "e9b73141027a0f26d2ef3db852ed0f782b8e83d1daf11bede0c9c91583254e86"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "ad91fda3c4603706b772310bb3de10ff182f0e2fed7a7d94fb4e172c379e0f51"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "28861af3bf8cbe5d2a33ec23d933788b3b1d80de11b324c1bb25ef0ab95fe056"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "icon.png"
+hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "67be233a74c694d188c8d3fdfa438e6be0ca05f31775c01d7ad50a7bc287cfd6"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "10ee6e657f98a4c9ce0e6fb8bd615f7a0332fe9123df35b3a64ab8a0beeea7b6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "f41cbd4e04d52ac715dc243fe0cd0df327de89a155d5c2145aa26ba7667d43c8"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "4a77ba18f0a3fa03ba109b1277055d39eb4b6d33b44c2aeda04447ae1b27c03b"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
+metafile = true
+
+[[files]]
+file = "mods/project-mmo.pw.toml"
+hash = "f9b54bad5acaf51cf313a44c3f1d2f0b64f7f7c5e663beab4fcc407dca713965"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "80d8a591da7d64bc0d3fb9ce3a959dac047db38e53a45a1e859f90a47029610e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "df381ef2e4e47544dfc5c9200c1029a0a341a9137182ab69dc5b3521cbe8db3e"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "29e5b37522eee968368d1a638b3c2aab49c8e04306d80386a2e186403d744572"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "6486e612caf3ae99e2b77dc26a79a873b51774c09f37f274ee9c6f52bccce92d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8be84eca9a6560ca564991d770d88b2544c7777f3bdf63b3d5895dfc6ec733d7"
+
+[[files]]
+file = "resourcepacks/craftnectar/assets/minecraft/lang/en_us.json"
+hash = "6cd083ca14c44f8b16b68202c244a6c01ff990ed331a9bbed9f570a85ba2c716"
+
+[[files]]
+file = "resourcepacks/craftnectar/pack.mcmeta"
+hash = "e93650271fe62535f72e73b5f6742347665ed39d474eb85e7b315864cff5ecc7"
