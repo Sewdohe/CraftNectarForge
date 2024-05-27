@@ -231,6 +231,11 @@ hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
 metafile = true
 
 [[files]]
+file = "mods/simple-forge-chat.pw.toml"
+hash = "625930a55cb9d4b580701cbdb8385b4444814d84d2f41d9633fd6941a713fdae"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "17fa512b7471a786f22400ced605f5985420762326c1e7dd59ef1fe022e10dca"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Simple Forge Chat"
+filename = "simpleforgechat-1.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "3f5c5c367c5255b7254208c456389db85efa237b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4632078
+project-id = 886090
