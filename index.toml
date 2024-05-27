@@ -156,11 +156,6 @@ hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "90954691e0671c9a94c9c26b4601c0ecd8de8b9dc254b0d961de9152852e8748"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
@@ -183,6 +178,21 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "c3841ddbb84ab1e5f0708aea1de89f4f8e3c9275d885d3bc049e2468a5d5b51e"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-discord-integration.pw.toml"
+hash = "c0944fb1bf1654b6cf50c12b538bed2ee3b528b91c9c0b290e51a81a1b350351"
 metafile = true
 
 [[files]]
