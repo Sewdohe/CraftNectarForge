@@ -69,6 +69,3390 @@ file = "config/oculus.properties"
 hash = "31132560de0dce91e5c4768a20cbfb0186203ec8daf227769e2d3a5e30ce4eb5"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/acacia_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/acacia_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/adjustable_chain_gearshift.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/analog_lever.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_alloy_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_bars.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_belt_funnel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_casing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_door.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_encased_cogwheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_encased_large_cogwheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_encased_shaft.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_funnel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_ladder.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_scaffolding.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/andesite_tunnel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/asurine.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/asurine_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/basin.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/belt.json"
+hash = "995b405f0d9f2acb4cb8a6002095cca0e0940ce3520eec33482d1b41226e04fb"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/birch_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/birch_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/black_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/black_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/black_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/black_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/black_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/blaze_burner.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/blue_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/blue_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/blue_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/blue_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/blue_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_bars.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_belt_funnel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_casing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_door.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_encased_cogwheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_encased_large_cogwheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_encased_shaft.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_funnel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_ladder.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_scaffolding.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brass_tunnel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brown_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brown_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brown_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brown_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/brown_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/calcite_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cart_assembler.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/chocolate.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/chute.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/clipboard.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/clockwork_bearing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/clutch.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cogwheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/content_observer.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/contraption_controls.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/controller_rail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/controls.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_backtank.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_bars.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_casing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_door.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_ladder.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_scaffolding.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copper_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copycat_bars.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copycat_base.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copycat_panel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/copycat_step.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/creative_crate.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/creative_fluid_tank.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/creative_motor.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/crimsite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/crimsite_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/crimson_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/crimson_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/crushing_wheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/crushing_wheel_controller.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cuckoo_clock.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cyan_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cyan_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cyan_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cyan_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/cyan_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/dark_oak_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/dark_oak_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/deepslate_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/deepslate_zinc_ore.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/deployer.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/depot.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/diorite_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/display_board.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/display_link.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/dripstone_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/elevator_contact.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/elevator_pulley.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/encased_chain_drive.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/encased_fan.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/encased_fluid_pipe.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/experience_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/exposed_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/exposed_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/exposed_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/exposed_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/exposed_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/exposed_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/fake_track.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/fluid_pipe.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/fluid_tank.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/fluid_valve.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/flywheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/framed_glass.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/framed_glass_door.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/framed_glass_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/framed_glass_trapdoor.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gantry_carriage.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gantry_shaft.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gearbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gearshift.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/glass_fluid_pipe.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/granite_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gray_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gray_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gray_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gray_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/gray_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/green_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/green_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/green_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/green_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/green_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/hand_crank.json"
+hash = "59dafa11ed8ef9d00198c1bb5387aa08d288a333b08d46a38b571cd1ff32b94c"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/haunted_bell.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/honey.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/horizontal_framed_glass.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/horizontal_framed_glass_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/hose_pulley.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/industrial_iron_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/item_drain.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/item_vault.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/jungle_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/jungle_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/large_bogey.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/large_cogwheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/large_water_wheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_andesite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_asurine.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_calcite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_crimsite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_deepslate.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_diorite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_dripstone.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_granite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_limestone.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_ochrum.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_scorchia.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_scoria.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_tuff.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/layered_veridium.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lectern_controller.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_blue_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_blue_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_blue_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_blue_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_blue_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_gray_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_gray_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_gray_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_gray_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/light_gray_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lime_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lime_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lime_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lime_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lime_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/limestone.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/limestone_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/linear_chassis.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/lit_blaze_burner.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/magenta_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/magenta_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/magenta_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/magenta_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/magenta_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mangrove_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mangrove_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_arm.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_bearing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_crafter.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_drill.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_harvester.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_mixer.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_piston.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_piston_head.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_plough.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_press.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_pump.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_roller.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mechanical_saw.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/metal_bracket.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/metal_girder.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/metal_girder_encased_shaft.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/millstone.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/minecart_anchor.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/mysterious_cuckoo_clock.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/netherite_backtank.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/nozzle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oak_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oak_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/ochrum.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/ochrum_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/orange_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/orange_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/orange_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/orange_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/ornate_iron_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/ornate_iron_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oxidized_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oxidized_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oxidized_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oxidized_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oxidized_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/oxidized_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/peculiar_bell.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pink_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pink_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pink_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pink_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pink_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/piston_extension_pole.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/placard.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_andesite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_andesite_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_andesite_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_andesite_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_asurine.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_asurine_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_asurine_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_asurine_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_calcite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_calcite_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_calcite_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_calcite_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_crimsite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_crimsite_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_crimsite_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_crimsite_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_deepslate.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_deepslate_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_deepslate_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_deepslate_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_diorite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_diorite_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_diorite_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_diorite_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_dripstone.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_dripstone_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_dripstone_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_dripstone_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_granite.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_granite_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_granite_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_granite_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_limestone.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_limestone_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_limestone_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_limestone_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_ochrum.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_ochrum_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_ochrum_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_ochrum_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scorchia.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scorchia_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scorchia_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scorchia_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scoria.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scoria_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scoria_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_scoria_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_tuff.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_tuff_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_tuff_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_tuff_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_veridium.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_veridium_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_veridium_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/polished_cut_veridium_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/portable_fluid_interface.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/portable_storage_interface.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/powered_latch.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/powered_shaft.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/powered_toggle_latch.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pulley_magnet.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pulse_extender.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/pulse_repeater.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/purple_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/purple_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/purple_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/purple_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/purple_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/radial_chassis.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/railway_casing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/raw_zinc_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/red_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/red_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/red_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/red_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/red_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/redstone_contact.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/redstone_link.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/refined_radiance_casing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/rope.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/rope_pulley.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/rose_quartz_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/rose_quartz_lamp.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/rose_quartz_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/rotation_speed_controller.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/sail_frame.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/schematic_table.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/schematicannon.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/scorchia.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/scorchia_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/scoria.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/scoria_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/secondary_linear_chassis.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/sequenced_gearshift.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/shadow_steel_casing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/shaft.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_andesite_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_andesite_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_andesite_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_andesite_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_asurine_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_asurine_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_asurine_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_asurine_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_bogey.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_calcite_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_calcite_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_calcite_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_calcite_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_crimsite_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_crimsite_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_crimsite_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_crimsite_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_deepslate_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_deepslate_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_deepslate_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_deepslate_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_diorite_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_diorite_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_diorite_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_diorite_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_dripstone_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_dripstone_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_dripstone_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_dripstone_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_granite_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_granite_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_granite_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_granite_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_limestone_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_limestone_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_limestone_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_limestone_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_ochrum_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_ochrum_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_ochrum_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_ochrum_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_rose_quartz_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scorchia_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scorchia_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scorchia_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scorchia_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scoria_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scoria_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scoria_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_scoria_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_tuff_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_tuff_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_tuff_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_tuff_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_veridium_brick_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_veridium_brick_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_veridium_brick_wall.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/small_veridium_bricks.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/smart_chute.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/smart_fluid_pipe.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/speedometer.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/spout.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/spruce_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/spruce_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/steam_engine.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/steam_whistle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/steam_whistle_extension.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/sticker.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/sticky_mechanical_piston.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/stockpile_switch.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/stressometer.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/tiled_glass.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/tiled_glass_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/track.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/track_observer.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/track_signal.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/track_station.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/train_door.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/train_trapdoor.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/tuff_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/turntable.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/veridium.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/veridium_pillar.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/vertical_framed_glass.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/vertical_framed_glass_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/warped_window.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/warped_window_pane.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/water_wheel.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/water_wheel_structure.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_exposed_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_exposed_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_exposed_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_exposed_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_exposed_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_exposed_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_oxidized_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_oxidized_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_oxidized_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_oxidized_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_oxidized_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_oxidized_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_weathered_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_weathered_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_weathered_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_weathered_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_weathered_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/waxed_weathered_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weathered_copper_shingle_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weathered_copper_shingle_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weathered_copper_shingles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weathered_copper_tile_slab.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weathered_copper_tile_stairs.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weathered_copper_tiles.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/weighted_ejector.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/white_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/white_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/white_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/white_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/white_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/windmill_bearing.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/wooden_bracket.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/yellow_nixie_tube.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/yellow_sail.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/yellow_seat.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/yellow_toolbox.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/yellow_valve_handle.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/zinc_block.json"
+hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/zinc_ore.json"
+hash = "505d30a13034d9c0c021391e87d37cecead0d0157f54f05feae396b17f36094a"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/enchantments/capacity.json"
+hash = "8b64b8fd7f19a4bc0125ca9c5ae8f4b4e26da1a18d1e3da2837bd4e2b0aa5af1"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/enchantments/potato_recovery.json"
+hash = "8b64b8fd7f19a4bc0125ca9c5ae8f4b4e26da1a18d1e3da2837bd4e2b0aa5af1"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/carriage_contraption.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/contraption.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/crafting_blueprint.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/gantry_contraption.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/potato_projectile.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/seat.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/stationary_contraption.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/entities/super_glue.json"
+hash = "91a66ca82cb8c0ed094abb135d79b233c12ab9ff0603cb3f400706fa2f9d6b48"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/acacia_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/acacia_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/adjustable_chain_gearshift.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/analog_lever.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_alloy.json"
+hash = "d8e5aae50657969d6753b99467479b813980257f15fdfbbe26a318077e8352a3"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_alloy_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_bars.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_casing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_door.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_encased_cogwheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_encased_large_cogwheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_encased_shaft.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_funnel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_ladder.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_scaffolding.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/andesite_tunnel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/asurine.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/asurine_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/attribute_filter.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/bar_of_chocolate.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/basin.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/belt_connector.json"
+hash = "183804401d6f86f3ffe0d80f8b954a1bb6e84386be420acccffae4981e1d195c"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/birch_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/birch_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/black_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/black_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/black_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/blaze_burner.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/blaze_cake.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/blaze_cake_base.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/blue_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/blue_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/blue_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_bars.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_casing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_door.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_encased_cogwheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_encased_large_cogwheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_encased_shaft.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_funnel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_hand.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_ingot.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_ladder.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_nugget.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_scaffolding.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_sheet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brass_tunnel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brown_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brown_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/brown_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/builders_tea.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/calcite_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cart_assembler.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/chest_minecart_contraption.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/chocolate_bucket.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/chocolate_glazed_berries.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/chromatic_compound.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/chute.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cinder_flour.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/clipboard.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/clockwork_bearing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/clutch.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cogwheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/content_observer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/contraption_controls.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/controller_rail.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/controls.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_backtank.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_backtank_placeable.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_bars.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_casing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_diving_boots.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_diving_helmet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_door.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_ladder.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_nugget.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_scaffolding.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_sheet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_shingle_slab.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_shingle_stairs.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_shingles.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_tile_slab.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_tile_stairs.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_tiles.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copper_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copycat_panel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/copycat_step.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crafter_slot_cover.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crafting_blueprint.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/creative_blaze_cake.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/creative_crate.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/creative_fluid_tank.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/creative_motor.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crimsite.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crimsite_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crimson_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crimson_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_aluminum.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_copper.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_gold.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_iron.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_lead.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_nickel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_osmium.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_platinum.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_quicksilver.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_silver.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_tin.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_uranium.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushed_raw_zinc.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/crushing_wheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cuckoo_clock.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cyan_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cyan_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/cyan_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/dark_oak_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/dark_oak_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/deepslate_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/deepslate_zinc_ore.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/deployer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/depot.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/diorite_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/display_board.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/display_link.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/dough.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/dripstone_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/electron_tube.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/elevator_contact.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/elevator_pulley.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/empty_blaze_burner.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/empty_schematic.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/encased_chain_drive.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/encased_fan.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/experience_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/experience_nugget.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/exposed_copper_shingle_slab.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/exposed_copper_shingle_stairs.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/exposed_copper_shingles.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/exposed_copper_tile_slab.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/exposed_copper_tile_stairs.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/exposed_copper_tiles.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/extendo_grip.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/filter.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/fluid_pipe.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/fluid_tank.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/fluid_valve.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/flywheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/framed_glass.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/framed_glass_door.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/framed_glass_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/framed_glass_trapdoor.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/furnace_minecart_contraption.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gantry_carriage.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gantry_shaft.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gearbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gearshift.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/goggles.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/golden_sheet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/granite_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gray_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gray_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/gray_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/green_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/green_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/green_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/hand_crank.json"
+hash = "21b64a546a22132c8d33ab34f08491e16d7c2a2ba1c7bbbc65f2301d2de67669"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/handheld_worldshaper.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/haunted_bell.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/honey_bucket.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/honeyed_apple.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/horizontal_framed_glass.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/horizontal_framed_glass_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/hose_pulley.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/incomplete_precision_mechanism.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/incomplete_track.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/industrial_iron_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/iron_sheet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/item_drain.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/item_vault.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/jungle_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/jungle_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/large_cogwheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/large_water_wheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_andesite.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_asurine.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_calcite.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_crimsite.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_deepslate.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_diorite.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_dripstone.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_granite.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_limestone.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_ochrum.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_scorchia.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_scoria.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_tuff.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_veridium.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/light_blue_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/light_blue_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/light_blue_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/light_gray_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/light_gray_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/light_gray_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/lime_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/lime_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/lime_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/limestone.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/limestone_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/linear_chassis.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/linked_controller.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/magenta_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/magenta_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/magenta_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mangrove_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mangrove_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_arm.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_bearing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_crafter.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_drill.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_harvester.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_mixer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_piston.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_plough.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_press.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_pump.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_roller.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mechanical_saw.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/metal_bracket.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/metal_girder.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/millstone.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/minecart_contraption.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/minecart_coupling.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/mysterious_cuckoo_clock.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/netherite_backtank.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/netherite_backtank_placeable.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/netherite_diving_boots.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/netherite_diving_helmet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/nixie_tube.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/nozzle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/oak_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/oak_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/ochrum.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/ochrum_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/orange_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/orange_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/orange_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/ornate_iron_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/ornate_iron_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/peculiar_bell.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/pink_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/pink_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/pink_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/piston_extension_pole.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/placard.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/polished_rose_quartz.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/portable_fluid_interface.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/portable_storage_interface.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/potato_cannon.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/powdered_obsidian.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/powered_latch.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/powered_toggle_latch.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/precision_mechanism.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/propeller.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/pulse_extender.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/pulse_repeater.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/purple_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/purple_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/purple_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/radial_chassis.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/railway_casing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/raw_zinc.json"
+hash = "b90f20f82509c9ed95f5509ca3b5acb7a0366644cbe7beba3f6e65edd6989f26"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/raw_zinc_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/red_sand_paper.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/red_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/red_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/red_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/redstone_contact.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/redstone_link.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/refined_radiance.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/refined_radiance_casing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/rope_pulley.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/rose_quartz.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/rose_quartz_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/rose_quartz_lamp.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/rose_quartz_tiles.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/rotation_speed_controller.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sail_frame.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sand_paper.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/schedule.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/schematic.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/schematic_and_quill.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/schematic_table.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/schematicannon.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/scorchia.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/scorchia_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/scoria.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/scoria_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/secondary_linear_chassis.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sequenced_gearshift.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/shadow_steel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/shadow_steel_casing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/shaft.json"
+hash = "692c7ca0afbd19e680a0699d147d5b89fa64fe70f29c4b3758a5e7052c661ecd"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/smart_chute.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/smart_fluid_pipe.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/speedometer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/spout.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/spruce_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/spruce_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/steam_engine.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/steam_whistle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sticker.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sticky_mechanical_piston.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/stockpile_switch.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/stressometer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sturdy_sheet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/super_glue.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/sweet_roll.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/tiled_glass.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/tiled_glass_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/track.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/track_observer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/track_signal.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/track_station.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/train_door.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/train_trapdoor.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/tree_fertilizer.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/tuff_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/turntable.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/unprocessed_obsidian_sheet.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/veridium.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/veridium_pillar.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/vertical_framed_glass.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/vertical_framed_glass_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/vertical_gearbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/wand_of_symmetry.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/warped_window.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/warped_window_pane.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/water_wheel.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/weighted_ejector.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/wheat_flour.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/whisk.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/white_sail.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/white_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/white_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/white_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/windmill_bearing.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/wooden_bracket.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/wrench.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/yellow_seat.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/yellow_toolbox.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/yellow_valve_handle.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/zinc_block.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/zinc_ingot.json"
+hash = "b90f20f82509c9ed95f5509ca3b5acb7a0366644cbe7beba3f6e65edd6989f26"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/zinc_nugget.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/zinc_ore.json"
+hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/pack.mcmeta"
+hash = "4d2053670695dd7fd36f5945e8c703e1fc47009a3dc0e076aa0b811bce49a5b3"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/craftnectar/assets/minecraft/lang/en_us.json"
+hash = "6cd083ca14c44f8b16b68202c244a6c01ff990ed331a9bbed9f570a85ba2c716"
+
+[[files]]
+file = "config/paxi/resourcepacks/craftnectar/pack.mcmeta"
+hash = "e93650271fe62535f72e73b5f6742347665ed39d474eb85e7b315864cff5ecc7"
+
+[[files]]
 file = "config/pmmo-client.toml"
 hash = "3332f1acb6cc1294bb701d3fb9b00a798abd2cb7ade267e96ae2e0367313f6b7"
 
@@ -242,7 +3626,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-forge-chat.pw.toml"
-hash = "625930a55cb9d4b580701cbdb8385b4444814d84d2f41d9633fd6941a713fdae"
+hash = "bdcd484528b4bedf703575985fafac25fb9b67b3377be5a3a733c4f7f25a3bf0"
 metafile = true
 
 [[files]]
@@ -260,9 +3644,5 @@ file = "options.txt"
 hash = "8be84eca9a6560ca564991d770d88b2544c7777f3bdf63b3d5895dfc6ec733d7"
 
 [[files]]
-file = "resourcepacks/craftnectar/assets/minecraft/lang/en_us.json"
-hash = "6cd083ca14c44f8b16b68202c244a6c01ff990ed331a9bbed9f570a85ba2c716"
-
-[[files]]
-file = "resourcepacks/craftnectar/pack.mcmeta"
-hash = "e93650271fe62535f72e73b5f6742347665ed39d474eb85e7b315864cff5ecc7"
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
