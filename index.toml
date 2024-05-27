@@ -73,6 +73,90 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/create/advancements/crafting_terminal.json"
+hash = "32d7d3c5ff10a45790e75f4606c4dff0b699b2ca4d8a15edc27800abdc4127e1"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/create/advancements/storage_terminal.json"
+hash = "b92d5fa80ef3b0374779ae2fdb3d9460b0cd8729224c9dcf709272fd8994351e"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/adv_wireless_terminal.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/crafting_terminal.json"
+hash = "1235fed6b003847fd08b487b47881489bc53c0f80d6e90575cb04f5734dc37b4"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_cable.json"
+hash = "4d79847dcbfffd467720182295cfdd649a4e387526792ea6482a54bd96f5abf4"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_cable_connector.json"
+hash = "0ff50a908afa17b425b08be2596e8b1cd4af4b64149dee9c128e5ec18d0dd39b"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_cable_connector_filtered.json"
+hash = "b25bb84f7ff6939ed46eeb8ff6efef43026215e4502c87fba2aa9de124517535"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_cable_connector_framed.json"
+hash = "aad275a03e808273ae9aa0637e6b92533014a9f3015d19e325dfcfb0b458b93a"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_cable_framed.json"
+hash = "b716e9f4b4b64cb17ab2df659afa10a2a5fa6c0bc61f2026b83d1550dc793548"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_connector.json"
+hash = "6aaef4eaf3c6951d88dc128cfe356f2626dbb3d42eef31b76ed51bf18a43f024"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_hopper_basic.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/inventory_proxy.json"
+hash = "3ee763aa7f509b35f6ff332564eedfe1c93f5fdd168aa79dcac063bc5bcdb26f"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/level_emitter.json"
+hash = "37bf1c01d3c625d492c2eebe1b6a993fc3200d289ef44a4f842e95e74899bd82"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/open_crate.json"
+hash = "ef2e5560ea74d302767f648c57477a8938b151159c1e6a9e07fb85fd237800c9"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/paint_kit.json"
+hash = "9ffec3b99f20de7440e186cb6754178ade341604897230a454092f73eee4d6a7"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/storage_terminal.json"
+hash = "12aef266c0fa3b6bbca6df0a1d4096fab90498721b403c7a26ac462fa4bc1ca0"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/trim.json"
+hash = "3c1135eec72a32e5746c81c6f19bd137cf24e0adfada1a1d7cec473b0c243e2e"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/trim_clean.json"
+hash = "b4d1d545ed0aefa82ea7e8075f9fa22b41560ef6930cc6a46c1ba2450b9c4ae2"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/data/toms_storage/recipes/wireless_terminal.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/pack.mcmeta"
+hash = "d6042b0928a7d5aa24453f8b194fa3b50c6c877185cb90038f338a76eceb2063"
+
+[[files]]
+file = "config/paxi/datapacks/Create Simple Storage Recipes 1.1/pack.png"
+hash = "8069e24d1f72da0323e985e034252e242cef2ea16101f4fb11a37cd1be238f3f"
+
+[[files]]
 file = "config/paxi/datapacks/craftnectar/data/create/pmmo/blocks/acacia_window.json"
 hash = "9f306f56db86be7a086edc11e50c4e85fbe95eb0a6a34d0606eee235c8b37801"
 
@@ -3501,6 +3585,42 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "defaultconfigs/computercraft-server.toml"
+hash = "737ff9b83c56cf9ee92c3e7cf18dccfdb65d0ad54f79fcc8a19cefb8e97620ff"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "c5c37989f83c5fa3fa59adbbd5a73eed4b2bc19d55a9ab9ecf0d36098015fa0e"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "084429c68993b6655da39823b5c02dc2a4e7f8b1560882e611f46fd33fea3687"
+
+[[files]]
+file = "defaultconfigs/pmmo-AntiCheese.toml"
+hash = "4a9bb28bfac6b2422d8e640a01941f52fc96cda3e1c0d4f7200419f43b540285"
+
+[[files]]
+file = "defaultconfigs/pmmo-AutoValues.toml"
+hash = "409cc8680933b3cfa72150fb4a8b5fe5f62838adc66a8e63edab8a688570deef"
+
+[[files]]
+file = "defaultconfigs/pmmo-Globals.toml"
+hash = "432bface0cbe3385be55fc19983b6e3f2b1a799f2b55e494d99aa9b1d342550c"
+
+[[files]]
+file = "defaultconfigs/pmmo-Perks.toml"
+hash = "cfce925eaa47f7c54101f28c5bc1fcab60e2f93b303a3ea7e83f4617a5805e58"
+
+[[files]]
+file = "defaultconfigs/pmmo-Skills.toml"
+hash = "7385cfa1cf6da02043cf56731920a3ce867698c9ea081f491e0ec8798fc9768d"
+
+[[files]]
+file = "defaultconfigs/pmmo-server.toml"
+hash = "5886ad06090b66d553ac9c19841e7836d17ce4b96b871eb24c2c9b35b34fde44"
+
+[[files]]
 file = "icon.png"
 hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
 
@@ -3656,3 +3776,35 @@ hash = "8be84eca9a6560ca564991d770d88b2544c7777f3bdf63b3d5895dfc6ec733d7"
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/- BetterDefault_1.5.zip"
+hash = "c1771d66fb2e14e5b03b96d2ce127a90d05263941a71d4ea0dc1ccbd32e12eb7"
+
+[[files]]
+file = "resourcepacks/Create Simple Storage 2.1.zip"
+hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
+
+[[files]]
+file = "resourcepacks/Create+Simple+Storage+Solid+GUI 1.1.zip"
+hash = "b06263643403277519aa48f37bd09d94305068c11062fb06c1c4a375e40778df"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9 (1).zip"
+hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.zip"
+hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
+
+[[files]]
+file = "resourcepacks/Icon Xaero's 1.14HF1 -1.19.2.zip"
+hash = "a0e54a81f333dfbbfd03c028fa0167e6bc65390c6b63527e699a4862092fe22b"
+
+[[files]]
+file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
+hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
+
+[[files]]
+file = "resourcepacks/MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip"
+hash = "28e91219060a1129cb71815c1a82f38c24888165d97fee9db8df7e9cf1aac832"
