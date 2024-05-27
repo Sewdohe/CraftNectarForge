@@ -186,6 +186,11 @@ hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "14b1ac7cf22a813f3ddc62685988c9e817a171ec960d9e0a662d84c095fc4f91"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "4a77ba18f0a3fa03ba109b1277055d39eb4b6d33b44c2aeda04447ae1b27c03b"
 metafile = true
