@@ -3776,35 +3776,3 @@ hash = "8be84eca9a6560ca564991d770d88b2544c7777f3bdf63b3d5895dfc6ec733d7"
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "resourcepacks/- BetterDefault_1.5.zip"
-hash = "c1771d66fb2e14e5b03b96d2ce127a90d05263941a71d4ea0dc1ccbd32e12eb7"
-
-[[files]]
-file = "resourcepacks/Create Simple Storage 2.1.zip"
-hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
-
-[[files]]
-file = "resourcepacks/Create+Simple+Storage+Solid+GUI 1.1.zip"
-hash = "b06263643403277519aa48f37bd09d94305068c11062fb06c1c4a375e40778df"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.9 (1).zip"
-hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.9.zip"
-hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
-
-[[files]]
-file = "resourcepacks/Icon Xaero's 1.14HF1 -1.19.2.zip"
-hash = "a0e54a81f333dfbbfd03c028fa0167e6bc65390c6b63527e699a4862092fe22b"
-
-[[files]]
-file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
-hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
-
-[[files]]
-file = "resourcepacks/MandalasGUI_Legacy+Modded_Dakmode_v4.6.zip"
-hash = "28e91219060a1129cb71815c1a82f38c24888165d97fee9db8df7e9cf1aac832"
