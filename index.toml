@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "67be233a74c694d188c8d3fdfa438e6be0ca05f31775c01d7ad50a7bc287cfd6"
+hash = "376791134a79abc4dde5302cae21e99cdcb9f0a5a4647650b5a2fbde82745fea"
 metafile = true
 
 [[files]]
@@ -162,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckoanimfix.pw.toml"
-hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
+hash = "9b4a906d49c3b11dc875034eb3ba38b8ccc0b5faa2db42447385ec3ec0bb71e8"
 metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
+hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
 
 [[files]]
@@ -212,17 +212,17 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "29e5b37522eee968368d1a638b3c2aab49c8e04306d80386a2e186403d744572"
+hash = "115a39e5b61611de054cbbeb6b4682f784562e06c2fd3dbee5fe4071df3106a7"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
+hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
 metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "6486e612caf3ae99e2b77dc26a79a873b51774c09f37f274ee9c6f52bccce92d"
+hash = "17fa512b7471a786f22400ced605f5985420762326c1e7dd59ef1fe022e10dca"
 metafile = true
 
 [[files]]
