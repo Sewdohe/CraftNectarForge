@@ -156,6 +156,11 @@ hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "90954691e0671c9a94c9c26b4601c0ecd8de8b9dc254b0d961de9152852e8748"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
