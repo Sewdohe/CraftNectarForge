@@ -3525,6 +3525,10 @@ file = "config/paxi/datapacks/craftnectar/pack.mcmeta"
 hash = "4d2053670695dd7fd36f5945e8c703e1fc47009a3dc0e076aa0b811bce49a5b3"
 
 [[files]]
+file = "config/paxi/datapacks/craftnectar/pack.png"
+hash = "7eae2ec4d4e7b3719cfc732d2d3d030c77cdfb86ab5a6e4b574c57cb0723d24d"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -3705,6 +3709,11 @@ hash = "14b1ac7cf22a813f3ddc62685988c9e817a171ec960d9e0a662d84c095fc4f91"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "4a77ba18f0a3fa03ba109b1277055d39eb4b6d33b44c2aeda04447ae1b27c03b"
 metafile = true
@@ -3776,3 +3785,15 @@ hash = "8be84eca9a6560ca564991d770d88b2544c7777f3bdf63b3d5895dfc6ec733d7"
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/craftnectar/assets/minecraft/lang/en_us.json"
+hash = "6cd083ca14c44f8b16b68202c244a6c01ff990ed331a9bbed9f570a85ba2c716"
+
+[[files]]
+file = "resourcepacks/craftnectar/pack.mcmeta"
+hash = "e93650271fe62535f72e73b5f6742347665ed39d474eb85e7b315864cff5ecc7"
+
+[[files]]
+file = "servers.dat"
+hash = "bf558412cf5858a314ae483e77af5f7dae12a4fa048140880d2a3bfc68dc4d98"
