@@ -1,0 +1,13 @@
+name = "Project MMO: Compat For Strictly Medieval"
+filename = "pmmo_compat_1.19.2_v20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d03f946bea2703199815d6f88770f3ef95cfa5d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5098390
+project-id = 711151

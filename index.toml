@@ -3734,8 +3734,8 @@ hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
 metafile = true
 
 [[files]]
-file = "mods/pmmo-compact.pw.toml"
-hash = "b4b50796093474e7efb0cc1a03e3acd36a2adfb0a2d448b274e7d512de429678"
+file = "mods/pmmo-compat.pw.toml"
+hash = "a3bcf1ad2168c829113ceb4a2025f0c4a3755445263cf8089bd2f45ca6a1569a"
 metafile = true
 
 [[files]]
