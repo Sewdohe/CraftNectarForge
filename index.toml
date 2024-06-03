@@ -3637,6 +3637,11 @@ hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "01cfdc98d1402bec4c99c8b4a854876a23d197906c5f00989d3a3e13fdddd90e"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
@@ -3654,6 +3659,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-graves.pw.toml"
+hash = "ce73c44d6f4622e2f6d11fc7116752f46d82a433e4c894b5f7e57e9ad1f2c05c"
 metafile = true
 
 [[files]]
@@ -3724,6 +3734,11 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "4a77ba18f0a3fa03ba109b1277055d39eb4b6d33b44c2aeda04447ae1b27c03b"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "e282215bbdb4d51bda591ba8e6205e349437db2b8bc2b13c4b8e35e515ae5a71"
 metafile = true
 
 [[files]]
