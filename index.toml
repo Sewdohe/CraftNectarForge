@@ -3837,11 +3837,6 @@ hash = "f21064ed8cbc59468af3ae72302f34c2d067106e3b092bf259cfb1769e16679b"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
-metafile = true
-
-[[files]]
 file = "mods/tan-huge-trees.pw.toml"
 hash = "ebc5ab04ddf87210e2435252d4add069cb4629a2a4a261c391233ef84c8c56c9"
 metafile = true
