@@ -3577,8 +3577,23 @@ file = "icon.png"
 hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "5d86bcaf1ee621abef8f5169485e2647e2f0fb0c9c5fb90b1fd8b359e57f3382"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "964b286efbbea56b5e5b48ad0b40409a4431d1487392531678988c3a0cb95fb4"
 metafile = true
 
 [[files]]
@@ -3587,8 +3602,18 @@ hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "376791134a79abc4dde5302cae21e99cdcb9f0a5a4647650b5a2fbde82745fea"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
 metafile = true
 
 [[files]]
@@ -3599,6 +3624,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "10ee6e657f98a4c9ce0e6fb8bd615f7a0332fe9123df35b3a64ab8a0beeea7b6"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
 
 [[files]]
@@ -3617,13 +3647,43 @@ hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "9b6eba81b6899e5b6961cdb6533a8dc9844baf91671048b0313fb1deb0c525c5"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "15781aaeba7673898fdc7b29859886909748a520a22d382595717337186d1b56"
+metafile = true
+
+[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "9b4a906d49c3b11dc875034eb3ba38b8ccc0b5faa2db42447385ec3ec0bb71e8"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "1b0461837c4f084af8b00bbb1d4642440c406018caddc300a3da29dd3cea4493"
 metafile = true
 
 [[files]]
@@ -3682,6 +3742,11 @@ hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
+metafile = true
+
+[[files]]
 file = "mods/pmmo-compat.pw.toml"
 hash = "a3bcf1ad2168c829113ceb4a2025f0c4a3755445263cf8089bd2f45ca6a1569a"
 metafile = true
@@ -3712,6 +3777,11 @@ hash = "d741a01991ef01da5a0b27668e2ba3bae3fab8e733909afe4f63471438ab0d3e"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "72f912e9893c002b994da409e5114078180139bfea729785859b1887ba5de3fe"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "80d8a591da7d64bc0d3fb9ce3a959dac047db38e53a45a1e859f90a47029610e"
 metafile = true
@@ -3732,6 +3802,11 @@ hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d02bc31ff9b7c11b645162ca5af171b3844eb76f76522ce9986884019070f510"
 metafile = true
@@ -3739,6 +3814,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "c0f6e9bb99d9ce0677ae654a91624ee24e4646b208c092eba24ab8ba8de4d762"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
 metafile = true
 
 [[files]]
