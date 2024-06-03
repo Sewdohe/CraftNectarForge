@@ -17,7 +17,7 @@
 		"Vein Gauge Xoffset" = 0.01
 		#how far up from the bottm left corner the vein guage should be
 		#Range: 0.0 ~ 1.0
-		"Vein Gauge Yoffset" = 1
+		"Vein Gauge Yoffset" = 0.75
 		#Should the vein charge data be displayed
 		"Display Vein Gauge" = true
 		#how far offset from center the gain list should be
