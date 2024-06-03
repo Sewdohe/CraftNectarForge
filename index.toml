@@ -3634,6 +3634,11 @@ hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "376791134a79abc4dde5302cae21e99cdcb9f0a5a4647650b5a2fbde82745fea"
 metafile = true
@@ -3731,6 +3736,11 @@ metafile = true
 [[files]]
 file = "mods/project-mmo.pw.toml"
 hash = "f9b54bad5acaf51cf313a44c3f1d2f0b64f7f7c5e663beab4fcc407dca713965"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
