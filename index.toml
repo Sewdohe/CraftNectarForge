@@ -3737,8 +3737,18 @@ hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ecc7f96e163765d1ab9dc8e6d458307d7021f711a28f1665a9f197fd353ecd23"
 metafile = true
 
 [[files]]
