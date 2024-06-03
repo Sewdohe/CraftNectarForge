@@ -3734,6 +3734,11 @@ hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
 metafile = true
 
 [[files]]
+file = "mods/pmmo-compact.pw.toml"
+hash = "b4b50796093474e7efb0cc1a03e3acd36a2adfb0a2d448b274e7d512de429678"
+metafile = true
+
+[[files]]
 file = "mods/project-mmo.pw.toml"
 hash = "f9b54bad5acaf51cf313a44c3f1d2f0b64f7f7c5e663beab4fcc407dca713965"
 metafile = true
