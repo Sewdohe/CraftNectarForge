@@ -1,0 +1,13 @@
+name = "Tan's Huge Trees"
+filename = "THT-Forge-1.19.2-4.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4f6e0737f473a3df8496903deb794659fd96981"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5392176
+project-id = 469915
