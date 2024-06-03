@@ -2833,58 +2833,6 @@ file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/large_water_whe
 hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
 
 [[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_andesite.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_asurine.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_calcite.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_crimsite.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_deepslate.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_diorite.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_dripstone.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_granite.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_limestone.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_ochrum.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_scorchia.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_scoria.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
-file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_tuff.json"
-hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
-
-[[files]]
 file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/layered_veridium.json"
 hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
 
@@ -3542,7 +3490,7 @@ hash = "e93650271fe62535f72e73b5f6742347665ed39d474eb85e7b315864cff5ecc7"
 
 [[files]]
 file = "config/pmmo-client.toml"
-hash = "3332f1acb6cc1294bb701d3fb9b00a798abd2cb7ade267e96ae2e0367313f6b7"
+hash = "117494902a5c38acfb68187e207552c1c4d8f86725250186979be32e179930d1"
 
 [[files]]
 file = "config/pmmo-common.toml"
@@ -3746,6 +3694,21 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
+metafile = true
+
+[[files]]
+file = "mods/quickhomes.pw.toml"
+hash = "23e9d3b3c5e97871698ffc49ab56feedd178723d64786cba1a636eed45fb004b"
+metafile = true
+
+[[files]]
+file = "mods/quickspawns.pw.toml"
+hash = "d4417ecbe6a3224dea48fb3e0d43d5042a06a0839d7a3a51eb0d67869a8d90d6"
+metafile = true
+
+[[files]]
+file = "mods/quickteleports.pw.toml"
+hash = "d741a01991ef01da5a0b27668e2ba3bae3fab8e733909afe4f63471438ab0d3e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "QuickSpawns"
+filename = "quickspawns-1.19-1.0.3-forge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c168f99c86c622f100c9680f038ab3825b854179"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827289
+project-id = 315007

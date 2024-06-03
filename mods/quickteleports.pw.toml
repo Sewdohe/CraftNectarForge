@@ -1,0 +1,13 @@
+name = "QuickTeleports"
+filename = "quickteleports-1.19-1.2.0-forge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "3dfde8e798a72005ce301b25e1aef88f8d636333"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827287
+project-id = 315037
