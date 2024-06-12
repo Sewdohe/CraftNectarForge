@@ -1,0 +1,45 @@
+{
+  "vein_blacklist": [
+    "minecraft:bedrock"
+  ],
+  "travel_req": {
+    "endurance": 15,
+    "combat": 20
+  },
+  "mob_modifier": {
+    "minecraft:enderman": {
+      "minecraft:generic.movement_speed": 2.5E-4,
+      "minecraft:generic.max_health": 10.0,
+      "minecraft:generic.attack_damage": 2.5E-4
+    },
+    "minecraft:endermite": {
+      "minecraft:generic.movement_speed": 2.5E-4,
+      "minecraft:generic.max_health": 10.0,
+      "minecraft:generic.attack_damage": 2.5E-4
+    },
+    "minecraft:phantom": {
+      "minecraft:generic.movement_speed": 2.5E-4,
+      "minecraft:generic.max_health": 10.0,
+      "minecraft:generic.attack_damage": 2.5E-4
+    },
+    "minecraft:shulker": {
+      "minecraft:generic.movement_speed": 2.5E-4,
+      "minecraft:generic.max_health": 10.0,
+      "minecraft:generic.attack_damage": 2.5E-4
+    },
+    "minecraft:ender_dragon": {
+      "minecraft:generic.movement_speed": 2.5E-4,
+      "minecraft:generic.max_health": 10.0,
+      "minecraft:generic.attack_damage": 2.5E-4
+    }
+  },
+  "override": true,
+  "isTagFor": [],
+  "bonus": {
+    "DIMENSION": {
+      "combat": 1.2,
+      "archery": 1.5,
+      "endurance": 1.5
+    }
+  }
+}
