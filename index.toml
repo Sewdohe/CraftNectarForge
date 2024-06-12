@@ -3674,6 +3674,11 @@ hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "90954691e0671c9a94c9c26b4601c0ecd8de8b9dc254b0d961de9152852e8748"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-graves.pw.toml"
 hash = "ce73c44d6f4622e2f6d11fc7116752f46d82a433e4c894b5f7e57e9ad1f2c05c"
 metafile = true
@@ -3726,16 +3731,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "c3841ddbb84ab1e5f0708aea1de89f4f8e3c9275d885d3bc049e2468a5d5b51e"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-discord-integration.pw.toml"
-hash = "c0944fb1bf1654b6cf50c12b538bed2ee3b528b91c9c0b290e51a81a1b350351"
 metafile = true
 
 [[files]]
