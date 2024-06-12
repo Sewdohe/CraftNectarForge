@@ -3469,6 +3469,18 @@ file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/zinc_ore.json"
 hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
 
 [[files]]
+file = "config/paxi/datapacks/craftnectar/data/minecraft/pmmo/dimensions/overworld.json"
+hash = "2e65c04c73f032b8e79151fdba01d0026bd179cb6652e429e7d06eefbba13645"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/minecraft/pmmo/dimensions/the_end.json"
+hash = "64194c8df4b36e58b521a4fcb6f3da3c9d25bfab0e066c7ac00bd0c052feb11e"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/minecraft/pmmo/dimensions/the_nether.json"
+hash = "4c6ecd7165488f96f2ecae9cd7063603a386fe579124a2577e3443903c5a45f5"
+
+[[files]]
 file = "config/paxi/datapacks/craftnectar/pack.mcmeta"
 hash = "4d2053670695dd7fd36f5945e8c703e1fc47009a3dc0e076aa0b811bce49a5b3"
 
@@ -3599,11 +3611,6 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
-metafile = true
-
-[[files]]
-file = "mods/beautified-chat-server.pw.toml"
-hash = "d150052cb294746a6d58dc98b6e7810d39544b3e2f97ffa83eb537b728beb4fe"
 metafile = true
 
 [[files]]
