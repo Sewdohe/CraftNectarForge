@@ -3469,6 +3469,18 @@ file = "config/paxi/datapacks/craftnectar/data/create/pmmo/items/zinc_ore.json"
 hash = "6815972100aa4d6b11cb0712874445c4ba6c613e1e5a850648640380956e34fe"
 
 [[files]]
+file = "config/paxi/datapacks/craftnectar/data/minecraft/pmmo/dimensions/overworld.json"
+hash = "2e65c04c73f032b8e79151fdba01d0026bd179cb6652e429e7d06eefbba13645"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/minecraft/pmmo/dimensions/the_end.json"
+hash = "64194c8df4b36e58b521a4fcb6f3da3c9d25bfab0e066c7ac00bd0c052feb11e"
+
+[[files]]
+file = "config/paxi/datapacks/craftnectar/data/minecraft/pmmo/dimensions/the_nether.json"
+hash = "4c6ecd7165488f96f2ecae9cd7063603a386fe579124a2577e3443903c5a45f5"
+
+[[files]]
 file = "config/paxi/datapacks/craftnectar/pack.mcmeta"
 hash = "4d2053670695dd7fd36f5945e8c703e1fc47009a3dc0e076aa0b811bce49a5b3"
 
@@ -3662,6 +3674,11 @@ hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "90954691e0671c9a94c9c26b4601c0ecd8de8b9dc254b0d961de9152852e8748"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-graves.pw.toml"
 hash = "ce73c44d6f4622e2f6d11fc7116752f46d82a433e4c894b5f7e57e9ad1f2c05c"
 metafile = true
@@ -3714,16 +3731,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "c3841ddbb84ab1e5f0708aea1de89f4f8e3c9275d885d3bc049e2468a5d5b51e"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-discord-integration.pw.toml"
-hash = "c0944fb1bf1654b6cf50c12b538bed2ee3b528b91c9c0b290e51a81a1b350351"
 metafile = true
 
 [[files]]

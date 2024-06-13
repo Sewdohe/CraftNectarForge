@@ -1,0 +1,18 @@
+{
+  "vein_blacklist": [
+    "minecraft:bedrock"
+  ],
+  "travel_req": {},
+  "mob_modifier": {},
+  "override": true,
+  "isTagFor": [],
+  "bonus": {
+    "DIMENSION": {
+      "mining": 1.25,
+      "excavation": 1.25,
+      "building": 1.25,
+      "woodcutting": 1.25,
+      "farming": 1.25
+    }
+  }
+}

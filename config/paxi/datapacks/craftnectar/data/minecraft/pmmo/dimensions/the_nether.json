@@ -1,0 +1,65 @@
+{
+  "vein_blacklist": [
+    "minecraft:bedrock"
+  ],
+  "travel_req": {
+    "combat": 15
+  },
+  "mob_modifier": {
+    "minecraft:hoglin": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:zombified_piglin": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:magma_cube": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:ghast": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:wither": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:enderman": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:endermite": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:blaze": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:skeleton": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:piglin": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    },
+    "minecraft:piglin_brute": {
+      "minecraft:generic.max_health": 7.0,
+      "minecraft:generic.attack_damage": 0.05
+    }
+  },
+  "override": true,
+  "isTagFor": [],
+  "bonus": {
+    "DIMENSION": {
+      "combat": 1.25,
+      "endurance": 1.25,
+      "archery": 1.25,
+      "flying": 2.5,
+      "farming": 0.75
+    }
+  }
+}
