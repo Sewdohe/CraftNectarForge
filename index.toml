@@ -3659,6 +3659,11 @@ hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
@@ -3684,8 +3689,18 @@ hash = "ce73c44d6f4622e2f6d11fc7116752f46d82a433e4c894b5f7e57e9ad1f2c05c"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "92f0a1d2b221021d2c0ab36d5c3e293f01a3a938b13d82bf82b997968f85faf4"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
 
 [[files]]
@@ -3696,6 +3711,21 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "15781aaeba7673898fdc7b29859886909748a520a22d382595717337186d1b56"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "5c4db054e8aafa7d55551d28100351300a5a6d21864efbbc15864a5e7d019024"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
@@ -3736,6 +3766,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "14b1ac7cf22a813f3ddc62685988c9e817a171ec960d9e0a662d84c095fc4f91"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
