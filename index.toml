@@ -3739,6 +3739,11 @@ hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "1b0461837c4f084af8b00bbb1d4642440c406018caddc300a3da29dd3cea4493"
 metafile = true
@@ -3766,6 +3771,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "14b1ac7cf22a813f3ddc62685988c9e817a171ec960d9e0a662d84c095fc4f91"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
 
 [[files]]
@@ -3849,6 +3859,11 @@ hash = "72f912e9893c002b994da409e5114078180139bfea729785859b1887ba5de3fe"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "80d8a591da7d64bc0d3fb9ce3a959dac047db38e53a45a1e859f90a47029610e"
 metafile = true
@@ -3869,8 +3884,18 @@ hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "19aa879d120e19d911763a2b1b4987cbb1f10f593bf39867e261535fc464dfa6"
 metafile = true
 
 [[files]]
@@ -3886,6 +3911,11 @@ metafile = true
 [[files]]
 file = "mods/stalwart-dungeons.pw.toml"
 hash = "f21064ed8cbc59468af3ae72302f34c2d067106e3b092bf259cfb1769e16679b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c8fe1aa2391ea5a0ed155de631d6cf9b46c90b2a2541a4afb3497a3285d537d7"
 metafile = true
 
 [[files]]
