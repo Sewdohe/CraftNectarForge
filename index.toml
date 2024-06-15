@@ -3894,11 +3894,6 @@ hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "19aa879d120e19d911763a2b1b4987cbb1f10f593bf39867e261535fc464dfa6"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d02bc31ff9b7c11b645162ca5af171b3844eb76f76522ce9986884019070f510"
 metafile = true
